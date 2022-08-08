@@ -15,4 +15,4 @@ jobs:
           GH_PAT: ${{ secrets.GH_PAT }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GH_USERNAME: maketheworldwise
-          GIST_ID: 9353042b9c7818cd8cf5c1d96ec51ae8
+          GIST_ID: 3dc31b00802215cf648c27ca8138a78f
